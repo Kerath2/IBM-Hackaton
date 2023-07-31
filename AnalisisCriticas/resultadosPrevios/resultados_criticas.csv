@@ -1,0 +1,11 @@
+Cliente,Critica Español,Critica Inglés,Resultado Español,Resultado Inglés
+Cliente1,"La atención fue excelente, estoy muy satisfecho.","The attention was excellent, I am very satisfied.",positive,positive
+Cliente2,"La atención fue pésima, no volveré a este banco.","The attention was lousy, I won't go back to this bank.",negative,negative
+Cliente4,"El servicio fue regular, podrían mejorar.","The service was regular, they could improve.",negative,negative
+Cliente5,Los agentes del banco me atendieron muy bien. Volvere pronto.,The bank agents treated me very well. I'll be back soon,positive,positive
+Cliente6,"Pienso que solo les interesa lucrar, pésimo servicio.","I think they're only interested in lucre, lousy service.",negative,negative
+Cliente7,"Pienso que podria ahorrarme mucho tiempo si en lugar de venir al local, realizaba mi operacion desde mi celular .","I think it could save me a lot of time if instead of coming to the local, I performed my operation from my cell phone.",negative,negative
+Cliente8,"La tasa de interes que me propusieron es muy alta. Soy un cliente puntual, deberian ofrecerme algo mejor.","The interest rate they proposed to me is very high. I'm a point customer, they should offer me something better.",negative,negative
+Cliente9,Es la mejor entidad financiera que he vistado. Volvere mas seguido.,It's the best financial institution I've ever seen. I will go further.,positive,positive
+Cliente10,Muchas colas y pocos funcionarios atendiendo.,Many queues and few officials attending.,negative,negative
+Cliente11,"Me ofrecieron un servicio, sin embargo cuando me acerque era totalmente distinto.","I was offered a service, however when I approached it was totally different.",negative,negative

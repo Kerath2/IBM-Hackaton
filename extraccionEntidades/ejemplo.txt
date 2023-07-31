@@ -1,0 +1,14 @@
+Act as a webmaster who must extract structured information from emails. Read the below email and extract and categorize each entity.
+
+
+Input:
+Dear team.
+
+I would like to tell you that yesterday Mr. Miguel Guanira came very annoyed complaining about the evil
+deal you received at our bank called "Banco Independiente". He said that he was very upset when performing the operation
+cash withdrawal. He indicates that the cashier deducted from his account but at no time did he give him the money.
+Miguel Guanira, outraged, went to complain to one of our employees: Mr. Rony Cueva. However, he did not want to attend to it because
+it was too late.
+
+Named Entities:
+Miguel Guanira: client, Banco independiente: company, Rony Cueva: employee, cash withdrawal: operation 

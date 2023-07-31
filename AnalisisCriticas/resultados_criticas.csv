@@ -1,0 +1,11 @@
+Cliente,Critica Español,Critica Inglés,Resultado Español,Resultado Inglés
+Cliente1,"La atención al momento de solicitar un credito bancario fue excelente, estoy muy satisfecho.","The attention at the moment of applying for a bank credit was excellent, I am very satisfied.",positive,positive
+Cliente2,"La atención  al momento de realizar un duplicado de tarjeta fue pésima, no volveré a este banco.","The attention at the moment of making a duplicate card was lousy, I will not return to this bank.",negative,negative
+Cliente4,"El servicio al solicitar una cotización fue regular, podrían mejorar.","The service when applying for a quote was regular, they could improve.",negative,negative
+Cliente5,Los agentes del banco me atendieron muy bien al realizar el bloqueo de cuenta bancaria. Volvere pronto.,The bank agents treated me very well by conducting the bank account block. I'll be back soon,positive,positive
+Cliente6,"Pienso que solo les interesa lucrar, la tasa de interés del préstamo fue muy alta, pésimo servicio.","I think they are only interested in lucre, the interest rate of the loan was very high, poor service.",negative,negative
+Cliente7,"Pienso que podria ahorrarme mucho tiempo si en lugar de venir al local, realizaba mi transferencia desde mi celular .","I think it could save me a lot of time if instead of coming to the local, I performed my transfer from my cell phone.",negative,negative
+Cliente8,"La tasa de interes que me propusieron es muy alta en la hipoteca. Soy un cliente puntual, deberian ofrecerme algo mejor.","The interest rate they proposed to me is very high on the mortgage. I'm a point customer, they should offer me something better.",negative,negative
+Cliente9,Es la mejor entidad financiera que he vistado. El depósito de efectivo es muy rápido. Volvere mas seguido.,It's the best financial institution I've ever seen. The cash deposit is very fast. I will go further.,positive,positive
+Cliente10,Muchas colas y pocos funcionarios atendiendo. No pude realizar mi apertura de cuenta.,Many queues and few officials attending. I couldn't make my account opening.,negative,negative
+Cliente11,"La banca movil funciona muy mal, deberian renovarla. ","Mobile banking works very badly, they should renew it. ",negative,negative
